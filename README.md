@@ -4,12 +4,10 @@
 
 #
 
-<p align="center">Sou estudante de Ciência da Computação na Faculdade UNIFAPI, em Teresina - Piauí. Atualmente, estou em busca de um estágio na área de backend, com ênfase em desenvolvimento Java. Tenho um forte interesse em criar aplicações robustas e escaláveis, utilizando Java e frameworks como Spring e Hibernate.Estou sempre atualizado com as melhores práticas de programação e busco constantemente novos desafios que me ajudem a aprimorar minhas habilidades.!</p>
+<p align="center">Sou estudante de Ciência da Computação na Faculdade UNIFAPI, em Teresina. Atualmente, estou em busca de um estágio na área de backend, com ênfase em desenvolvimento Java. Tenho um forte interesse em criar aplicações robustas e escaláveis, utilizando Java e frameworks como Spring e Hibernate.Estou sempre atualizado com as melhores práticas de programação e busco constantemente novos desafios que me ajudem a aprimorar minhas habilidades.!</p>
 
   
 #
-
-<img align="right" alt="" height="200px" src="https://github.com/user-attachments/assets/8306beb2-6607-43ad-a338-f88d71c88d5d">
 
 <h3 align="left">Connect with me!</h3>
 
